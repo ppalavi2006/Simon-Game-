@@ -22,4 +22,4 @@ A fun and interactive Simon Game built using HTML, CSS, and JavaScript. The game
 4. The sequence gets longer after every successful level.
 5. If you make a mistake, the game ends. Press any key to play again.
 
-## Project Structure
+
